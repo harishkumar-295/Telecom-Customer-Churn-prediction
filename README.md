@@ -1,20 +1,17 @@
 # Telecom-Customer-Churn-prediction
 
 ## Overview
-This is a vanilla classification model for a most common dataset, Telecom Churn predictions in Indian and South Asian Market. This project has two parts. A Telecom Churn prediction model for High Value Customers with maximum accuracy and another approach to find driving factors that influencing Churn in the Telecom company.
+This is a Random forest classification model for a most common dataset, Telecom Churn prediction.In this repository, I have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and I have used them wisely to create a model, and lately, have deployed the model.
+### 🟢 For EDA, please refer to : Churn Analysis - EDA.ipynb
+### 🟢 For Model Building, please refer to: Churn Analysis - Model Building.ipynb
+### 🟢 For Model Deployment, please refer to app.py
+
 
 ## Motivation
 In a Telecom industry, customers can choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
 For many incumbent operators, retaining high profitable customers is the number one business goal.
 
 To reduce customer churn, telecom companies need to predict which customers are at high risk of churn.
-
-
-In this repository, I have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and I have used them wisely to create a model, and lately, have deployed the model.
-
-### 🟢 For EDA, please refer to : Churn Analysis - EDA.ipynb
-### 🟢 For Model Building, please refer to: Churn Analysis - Model Building.ipynb
-### 🟢 For Model Deployment, please refer to app.py
 
 ## Technologies Used
 
