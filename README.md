@@ -1,10 +1,31 @@
 # Telecom-Customer-Churn-prediction
 
-In this repository, we have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and I have used them wisely to create a model, and lately, have deployed the model.
+## Overview
+This is a vanilla classification model for a most common dataset, Telecom Churn predictions in Indian and South Asian Market. This project has two parts. A Telecom Churn prediction model for High Value Customers with maximum accuracy and another approach to find driving factors that influencing Churn in the Telecom company.
+
+## Motivation
+In a Telecom industry, customers can choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
+
+<kbd><img src= "https://miro.medium.com/max/300/1*ajR-SIQzi8Reb6VaL5x2Gg.png"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src= "https://miro.medium.com/max/300/1*A-6PzYAEzHbXejMOoOYYHg.jpeg"></kbd>
+
+For many incumbent operators, retaining high profitable customers is the number one business goal.
+
+To reduce customer churn, telecom companies need to predict which customers are at high risk of churn.
+
+
+In this repository, I have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and I have used them wisely to create a model, and lately, have deployed the model.
 
 ### 🟢 For EDA, please refer to : Churn Analysis - EDA.ipynb
 ### 🟢 For Model Building, please refer to: Churn Analysis - Model Building.ipynb
 ### 🟢 For Model Deployment, please refer to app.py
+
+## Technologies Used
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://numpy.org/images/logos/numpy.svg" width=100>](https://numpy.org)    [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/450px-Pandas_logo.svg.png" width=150>](https://pandas.pydata.org)    [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=150>](https://scikit-learn.org/stable)   [<img target="_blank" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" width=170>](https://www.statsmodels.org)
+
+[<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=170>](https://matplotlib.org)      [<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=150>](https://seaborn.pydata.org)      [<img target="_blank" src="https://jupyter.org/assets/nav_logo.svg" width=150>](https://jupyter.org)
 
 
 ### 🔵 Creating the flask API
