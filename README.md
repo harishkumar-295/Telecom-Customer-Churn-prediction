@@ -45,8 +45,6 @@ The run() method of Flask class runs the application on the local development se
 app.run()
 ```
 
-
-Yay, our model is ready, let’s test our bot.
 The above given Python script is executed from Python shell.
 
 Go to Anaconda Prompt, and run the below query.
